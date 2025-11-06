@@ -1,0 +1,1 @@
+-- SQLite seed đã chạy trong Seed.Run(ctx); nếu dùng SQL Server hãy chuyển migration.
