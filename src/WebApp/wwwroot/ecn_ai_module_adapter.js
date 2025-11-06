@@ -1,0 +1,1 @@
+console.log('ECN-AI adapter placeholder');
