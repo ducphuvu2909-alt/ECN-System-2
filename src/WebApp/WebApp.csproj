@@ -5,15 +5,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 <ItemGroup>
-  <!-- Auth/JWT -->
   <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
   <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.1" />
-
-  <!-- EF Core + SQLite -->
   <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
   <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.8" />
-
-  <!-- Tuỳ chọn: BCrypt cho demo mật khẩu -->
   <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
 </ItemGroup>
 </Project>
