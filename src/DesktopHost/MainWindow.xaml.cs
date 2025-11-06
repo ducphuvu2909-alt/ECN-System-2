@@ -1,0 +1,1 @@
+using System; using System.Windows; namespace DesktopHost{ public partial class MainWindow:Window{ public MainWindow(){ InitializeComponent(); Loaded+=(s,e)=>{ Browser.Source=new Uri("http://127.0.0.1:5000/index.html"); }; } } }

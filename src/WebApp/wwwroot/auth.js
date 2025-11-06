@@ -1,0 +1,1 @@
+console.log('auth helper loaded');
