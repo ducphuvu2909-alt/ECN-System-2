@@ -1,1 +1,0 @@
-namespace DesktopHost{ public partial class App: System.Windows.Application{} }
